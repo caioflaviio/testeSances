@@ -9,7 +9,7 @@ namespace testeSances2
         {
             this.Codigo = codigo;
             this.Nome = nome;
-            this.Preco = preco;
+            this.Preco = preco; //askhaskda
         }
         public int Codigo { get; set; }
         public string Nome { get; set; }
