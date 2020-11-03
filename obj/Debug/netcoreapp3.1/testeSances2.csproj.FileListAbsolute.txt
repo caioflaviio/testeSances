@@ -1,0 +1,26 @@
+D:\Aula C#\testeSances2\bin\Debug\netcoreapp3.1\testeSances2.exe
+D:\Aula C#\testeSances2\bin\Debug\netcoreapp3.1\testeSances2.deps.json
+D:\Aula C#\testeSances2\bin\Debug\netcoreapp3.1\testeSances2.runtimeconfig.json
+D:\Aula C#\testeSances2\bin\Debug\netcoreapp3.1\testeSances2.runtimeconfig.dev.json
+D:\Aula C#\testeSances2\bin\Debug\netcoreapp3.1\testeSances2.dll
+D:\Aula C#\testeSances2\bin\Debug\netcoreapp3.1\testeSances2.pdb
+D:\Aula C#\testeSances2\obj\Debug\netcoreapp3.1\testeSances2.csprojAssemblyReference.cache
+D:\Aula C#\testeSances2\obj\Debug\netcoreapp3.1\testeSances2.AssemblyInfoInputs.cache
+D:\Aula C#\testeSances2\obj\Debug\netcoreapp3.1\testeSances2.AssemblyInfo.cs
+D:\Aula C#\testeSances2\obj\Debug\netcoreapp3.1\testeSances2.csproj.CoreCompileInputs.cache
+D:\Aula C#\testeSances2\obj\Debug\netcoreapp3.1\testeSances2.dll
+D:\Aula C#\testeSances2\obj\Debug\netcoreapp3.1\testeSances2.pdb
+D:\Aula C#\testeSances2\obj\Debug\netcoreapp3.1\testeSances2.genruntimeconfig.cache
+C:\Users\Gabi\Downloads\testeSances\bin\Debug\netcoreapp3.1\testeSances2.exe
+C:\Users\Gabi\Downloads\testeSances\bin\Debug\netcoreapp3.1\testeSances2.deps.json
+C:\Users\Gabi\Downloads\testeSances\bin\Debug\netcoreapp3.1\testeSances2.runtimeconfig.json
+C:\Users\Gabi\Downloads\testeSances\bin\Debug\netcoreapp3.1\testeSances2.runtimeconfig.dev.json
+C:\Users\Gabi\Downloads\testeSances\bin\Debug\netcoreapp3.1\testeSances2.dll
+C:\Users\Gabi\Downloads\testeSances\bin\Debug\netcoreapp3.1\testeSances2.pdb
+C:\Users\Gabi\Downloads\testeSances\obj\Debug\netcoreapp3.1\testeSances2.csprojAssemblyReference.cache
+C:\Users\Gabi\Downloads\testeSances\obj\Debug\netcoreapp3.1\testeSances2.AssemblyInfoInputs.cache
+C:\Users\Gabi\Downloads\testeSances\obj\Debug\netcoreapp3.1\testeSances2.AssemblyInfo.cs
+C:\Users\Gabi\Downloads\testeSances\obj\Debug\netcoreapp3.1\testeSances2.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Downloads\testeSances\obj\Debug\netcoreapp3.1\testeSances2.dll
+C:\Users\Gabi\Downloads\testeSances\obj\Debug\netcoreapp3.1\testeSances2.pdb
+C:\Users\Gabi\Downloads\testeSances\obj\Debug\netcoreapp3.1\testeSances2.genruntimeconfig.cache
