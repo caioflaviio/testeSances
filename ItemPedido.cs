@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Dynamic;
 using teste;
 
 namespace testeSances2
@@ -20,13 +21,19 @@ namespace testeSances2
         public double PrecoUnitario { get; set; }
         public int Quantidade { get; set; }
         public double Desconto { get; set; }
-
         public static void ApresentarItens()
+
         {
             Console.Clear();
 
+            
+
             foreach (var pedido in Program.listaPedidos)
             {
+
+                DateTime dateOnly = DateTime.Today;
+                Console.WriteLine(dateOnly.ToString("d"));
+
                 double valorTotal = 0;
                 Console.WriteLine("\nPedido: " + pedido.Descricao.ToString() + " Situação: " + pedido.Situacao.ToString() + "\n");
 
@@ -34,12 +41,12 @@ namespace testeSances2
                 {
                     if (itemPedido.CodigoPedido == pedido.Codigo)
                     {
-                        Console.WriteLine(itemPedido.Nome + " - R$ " + itemPedido.PrecoUnitario + " - X" + itemPedido.Quantidade.ToString());
+                        Console.WriteLine(itemPedido.Quantidade + (" x ") + itemPedido.Nome + ("  R$") + itemPedido.PrecoUnitario + ("  Total R$") +  (itemPedido.PrecoUnitario * itemPedido.Quantidade));
                         valorTotal += itemPedido.PrecoUnitario * itemPedido.Quantidade;
                     }
                 }
 
-                Console.WriteLine("\nValor total do pedido" + pedido.Descricao + ": R$ " + (pedido.Situacao == "Aprovado" ? pedido.ValorTotal.ToString() : valorTotal.ToString()));
+                Console.WriteLine("\nValor total do " + pedido.Descricao + ": R$ " + (pedido.Situacao == "Aprovado" ? pedido.ValorTotal.ToString() : valorTotal.ToString()));
                 Console.WriteLine("_____________________________________________________\n");
             }
 
